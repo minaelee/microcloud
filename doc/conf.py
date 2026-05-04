@@ -229,6 +229,12 @@ rst_epilog = """
 rst_prolog = '''
 .. role:: center
    :class: align-center
+.. role:: h2
+    :class: hclass2
+.. role:: woke-ignore
+    :class: woke-ignore
+.. role:: vale-ignore
+    :class: vale-ignore
 '''
 
 # Load substitutions from YAML file
