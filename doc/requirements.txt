@@ -1,5 +1,5 @@
-furo
-canonical-sphinx-extensions
+# Canonical theme (still needed for Furo theme and custom templates)
+canonical-sphinx~=0.6
 
 # Extensions previously auto-loaded by canonical-sphinx
 myst-parser~=4.0    # v5.0.0 causes version conflicts
@@ -32,5 +32,4 @@ vale~=3.13
 gitpython==3.1.47
 linkify-it-py==2.0.3
 pyyaml==6.0.3
-sphinx-copybutton==0.5.2
 watchfiles==1.1.1
